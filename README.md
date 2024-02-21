@@ -1,4 +1,4 @@
-### **Applied AI Ventures - Current Projects**
+### Applied AI Ventures - Current Projects
 Welcome to Applied AI Ventures, where we embark on a journey of innovation and exploration in the realm of artificial intelligence. Our projects are meticulously crafted to bring AI into the real world, making it both practical and enjoyable. Dive into the cutting-edge developments shaping the future of technology.## Transforming Text into Tunes: Music through AI
 ### Projects
 ### Transforming Text into Tunes: Music through AI
